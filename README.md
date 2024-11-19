@@ -7,28 +7,28 @@
   Voy a crear un directorio de trabajo llamado “KendoUISamples” debajo de ~/public_html que es el directorio predeterminado por OpenSuSe para ser el sitio web del usuario, todo lo que está dentro de ese directorio se publica en Apache con la siguiente dirección: http://127.0.0.1/~martin/
 </p>
 <div>
-<IMG src="picture_library/kendogrid/fig1.png">
+<IMG src="images/fig1.png">
 </div><br>
 <p align="justify">
   <b>Paso 2:</b><br>
   Dentro de ese directorio voy a crear un archivo de texto llamado <i>"Authors.js"</i> que contendrá los siguientes datos en formato JSON.
 Estos datos servirán para ser el <a href="http://demos.telerik.com/kendo-ui/datasource/index">DataSource</a> del control Kendo UI Grid que voy a mostrar.  El directorio de trabajo se verá como en la siguiente imagen:
   <div>
-  <IMG src="picture_library/kendogrid/fig2.png">
+  <IMG src="images/fig2.png">
   </div><br>
 </p>
 <p align="justify">
   <b>Paso 3:</b></br>
   <p>Descargamos el HTML5 Boiler template <a href="http://xomalli.blogspot.mx/2015/10/utilizando-el-html-5-boiler-template.html">(ver este post)</a> y lo descomprimimos dentro del directorio de trabajo para que se genere la estructura básica de un proyecto Front-End HTML5,  se verá una estructura como en la siguiente imagen </p>
 		  <div>
-		  <IMG src="picture_library/kendogrid/fig3.png">
+		  <IMG src="images/fig3.png">
 		  </div><br>
 		</p>
 		<p align="justify">
 		  <b>Paso 4:</b></br>
 		  Copiamos los archivos <b>css</b>  y <b>js</b> de JQuery y Kendo UI Telerik a los directorios css y js que están en el directorio de trabajo para tener una estructura como la que se muestra en la imagen
 		  <div>
-		  <IMG src="picture_library/kendogrid/fig4.png">
+		  <IMG src="images/fig4.png">
 		  </div><br>
 		</p>
 		<p align="justify">
@@ -46,5 +46,5 @@ En este paso se llaman a los archivos css y js de Jquery y Telerik respectivamen
 </p>
 		<p>Al abrir la página, y pulsar el botón se vera el siguiente resultado:</p>
 <div>
-<IMG src="picture_library/kendogrid/fig5.png">
+<IMG src="images/fig5.png">
 </div><br>
